@@ -1,7 +1,7 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
 
-![Screenshot do projeto](/assets/printscreen.png).
+![Screenshot do projeto](/assets/printscreen.png)
 
 #### Deploy
 
@@ -28,9 +28,7 @@ Giulia Rodrigues de Araujo (Ciência da Computação - UFSM)
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
-
+Tive um pouco de dificuldade pra entender como usar a API do GitHub inicialmente, porque nunca tinha trabalhado com isso antes, então dei uma olhada na documentação pra entender como fazer as requisições e pegar os dados certinhos. Adaptei o código pra mostrar os commits de um repositório específico quando o usuário digitar o nome do repositório junto com o username do usuário. Se a pessoa digitar só o username, aí o sistema mostra todos os repositórios. Também fiz umas mudanças no index.html e mexi no CSS pra deixar a página mais limpa e bonitinha. Usei a ajuda do ChatGPT pra conseguir limpar a lista sempre que uma nova busca fosse feita.
 
 
 ---
