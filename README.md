@@ -1,7 +1,7 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
 
-![Screenshot do projeto](/github-api-tutorial-main/assets/printscreen.png).
+![Screenshot do projeto](/assets/printscreen.png).
 
 #### Deploy
 
