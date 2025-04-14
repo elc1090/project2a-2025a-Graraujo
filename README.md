@@ -1,17 +1,11 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
 
 ![Screenshot do projeto](/github-api-tutorial-main/assets/printscreen.png).
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+https://elc1090.github.io/project2a-2025a-Graraujo/
 
 
 #### Desenvolvedor(a)
@@ -28,9 +22,8 @@ Giulia Rodrigues de Araujo (Ciência da Computação - UFSM)
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
+- https://codesnippet.io/github-api-tutorial/
+- https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/
 
 
 #### Bastidores
