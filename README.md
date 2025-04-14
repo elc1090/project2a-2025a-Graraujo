@@ -7,8 +7,7 @@
 > 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
 > 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
-
+![Screenshot do projeto](assets/printscreen.png).
 
 #### Deploy
 
@@ -17,14 +16,15 @@ Preencha aqui a URL para acesso ao site publicado
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
+Giulia Rodrigues de Araujo (Ciência da Computação - UFSM)
 
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
-- VS Code
-- Outras
+- Editor de código: Visual Studio Code (VS Code)
+
+- Extensões do VS Code: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) e [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 
 #### Créditos
 
