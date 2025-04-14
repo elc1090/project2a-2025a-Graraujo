@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+}
+
+form {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto 30px auto;
+}
+
+.btn {
+    width: 100%;
+}
+
+#userRepos li {
+    background: #ffffff;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
