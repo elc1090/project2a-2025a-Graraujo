@@ -7,7 +7,7 @@
 > 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
 > 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
 
-![Screenshot do projeto](assets/printscreen.png).
+![Screenshot do projeto](/github-api-tutorial-main/assets/printscreen.png).
 
 #### Deploy
 
